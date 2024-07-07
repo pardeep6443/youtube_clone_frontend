@@ -16,5 +16,15 @@ module.exports = {
       message: /source map/
     }
   ],
+        {
+    "compilerOptions": {
+        "target": "es5",
+        "module": "ES2015",
+        "sourceMap": false, // here (original: true)
+        "moduleResolution": "Node",
+        ...
+    }
+}
+        
     }
   };
