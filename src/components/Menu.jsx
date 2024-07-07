@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import logoimg from "C:/Users/PARDEEP SINGLA/OneDrive/Desktop/CLONE/youtube-clone/src/img/Deeptube.png";
+import logoimg from "/src/img/Deeptube.png";
 import HomeIcon from "@mui/icons-material/Home";
 import ExploreOutlinedIcon from "@mui/icons-material/ExploreOutlined";
 import SubscriptionsOutlinedIcon from "@mui/icons-material/SubscriptionsOutlined";
